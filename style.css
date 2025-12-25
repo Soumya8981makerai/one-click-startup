@@ -1,0 +1,31 @@
+body {
+  background: #020617;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding: 30px;
+}
+
+input {
+  padding: 12px;
+  width: 80%;
+  max-width: 400px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  margin-top: 10px;
+  padding: 12px 20px;
+  background: #22c55e;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  background: #020617;
+  padding: 20px;
+  border-radius: 12px;
+}
